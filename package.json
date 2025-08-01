@@ -4,13 +4,22 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon ./project/server3.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "uuid": "^11.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustaphaHameedah/HTTP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MustaphaHameedah/HTTP/issues"
+  },
+  "homepage": "https://github.com/MustaphaHameedah/HTTP#readme",
+  "description": ""
 }

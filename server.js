@@ -61,7 +61,7 @@ const server = http.createServer((req, res) => {
         })
       );
     } else {
-      res.writeHead(200, { "content-type": "applicatio/json" });
+      res.writeHead(200, { "content-type": "application/json" });
       res.end(
         JSON.stringify({
           message: "Goods retrieved successfully",

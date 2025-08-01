@@ -1,0 +1,66 @@
+[
+  {
+    "name1": "Daniel Utodio",
+    "name2": "Theresa Ogbodo",
+    "score1": 70,
+    "score2": 93,
+    "average": 81.5,
+    "message": "You both are a great match"
+  },
+  {
+    "name1": "Benita",
+    "name2": "Ben",
+    "score1": 16,
+    "score2": 88,
+    "average": 52,
+    "message": "There's potential, keep trying"
+  },
+  {
+    "name1": "Achalugo",
+    "name2": "Kpokrikpor",
+    "score1": 39,
+    "score2": 49,
+    "average": 44,
+    "message": "There's potential, keep trying"
+  },
+  {
+    "name1": "Achalugo",
+    "name2": "Kpokrikpor",
+    "score1": 40,
+    "score2": 93,
+    "average": 66.5,
+    "message": "You both are a great match"
+  },
+  {
+    "name1": "Mr. Ahmed",
+    "name2": "Miss Vicky",
+    "score1": 65,
+    "score2": 92,
+    "average": 78.5,
+    "message": "You both are a great match"
+  },
+  {
+    "name1": "Mr. Ahmed",
+    "name2": "Miss Vicky",
+    "score1": 29,
+    "score2": 51,
+    "average": 40,
+    "message": "There's potential, keep trying"
+  },
+  {
+    "name1": "Mr. Martins",
+    "name2": "Miss Modesola",
+    "score1": 84,
+    "score2": 72,
+    "average": 78,
+    "message": "You both are a great match"
+  },
+  {
+    "name1": "Mr. Martins",
+    "name2": "Miss Modesola",
+    "score1": 85,
+    "score2": 98,
+    "average": 91.5,
+    "message": "Perfect soulmates"
+  }
+]
